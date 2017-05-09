@@ -1,0 +1,42 @@
+<div class="card-group">
+                            <div class="card">
+                                <div class="card-block">
+                                    <h4 class="card-title">Strategy &amp; Planning</h4>
+                                    <h6 class="card-subtitle">Support card subtitle</h6>
+                                </div>
+                                <img src="img/img/chalkboard.jpg" alt="a chalkboard">
+                                <div class="card-block">
+                                    <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
+                                    <button type="button" class="btn btn-success-outline" data-toggle="modal" data-target="MyModal">learn more</button>
+                                </div>
+                            </div>
+                            
+                            <div class="card-group">
+                            <div class="card">
+                                <div class="card-block">
+                                    <h4 class="card-title">Creative &amp; Design</h4>
+                                    <h6 class="card-subtitle">Support card subtitle</h6>
+                                </div>
+                                <img src="img/img/working.jpg" alt="Working on a laptop">
+                                <div class="card-block">
+                                    <p class="card-text"> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur eveniet excepturi facilis asperiores alias, eaque itaque magnam nostrum voluptatem perspiciatis voluptate tempora quas fuga doloribus. Consequuntur dicta dolores, reprehenderit fuga. </p>
+                                    <button type="button" class="btn btn-success-outline" data-toggle="modal" data-target="MyModal">learn more</button>
+                                </div>
+                            </div>
+                            
+                             <div class="card-group">
+                            <div class="card">
+                                <div class="card-block">
+                                    <h4 class="card-title">Programming &amp; Technical</h4>
+                                    <h6 class="card-subtitle">Support card subtitle</h6>
+                                </div>
+                                <img src="img/img/programming.jpg" alt="fingers typing on a keyboard">
+                                <div class="card-block">
+                                    <p class="card-text"> Lorem ipsum dolor sit amet, consectetur adipisicing elit. quas fuga doloribus. Consequuntur dicta dolores, reprehenderit fuga. </p>
+                                    <button type="button" class="btn btn-success-outline" data-toggle="modal" data-target="MyModal">learn more</button>
+                                </div>
+                            </div>
+                            
+                        </div>
+                    </div>    
+                </div> 
