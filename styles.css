@@ -15,9 +15,24 @@ img {
     height: 100%;
     text-align: center;
     display: flex;
-    align-items: center
+    align-items: center;
 }
 
 #cover-caption{
     width: 100%;
+}
+
+.section-content {
+    padding: 5rem 0;
+}
+
+#about {
+    background: url('img/img/girlincar.jpg') center center no-repeat;
+    background-size: cover;
+}
+
+.about-text {
+    background: rgba(0,0,0,0.8);
+    padding: 1.875rem;
+    color: white;
 }
